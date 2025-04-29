@@ -28,7 +28,8 @@
 <h3>📱 Ekran Görüntüsü</h3>
 <p><em>Oyun arayüzünden bir kare:</em></p>
 
-![Survivor Bird Screenshot](assets/game.png)
+<img src="survivorbird/assets/game.png" width="400" alt="Survivor Bird Screenshot" />
+
 
 <hr>
 
