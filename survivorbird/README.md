@@ -27,7 +27,7 @@
 
 <h3>📱 Ekran Görüntüsü</h3>
 <p><em>Oyun arayüzünden bir kare:</em></p>
-<img src="assets/screenshot.png" alt="Survivor Bird Screenshot" width="400"/>
+<img src="assets/game.png" alt="Survivor Bird Screenshot" width="400"/>
 
 <hr>
 
@@ -45,7 +45,7 @@
 
 <h3>👤 Geliştirici</h3>
 <p><strong>Semih Şahin</strong><br>
-<a href="https://github.com/kullaniciadi" target="_blank">GitHub Profilim</a></p>
+<a href="https://github.com/semjhsahjn" target="_blank">GitHub Profilim</a></p>
 
 <hr>
 
