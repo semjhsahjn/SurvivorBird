@@ -27,19 +27,7 @@
 
 <h3>📱 Ekran Görüntüsü</h3>
 <p><em>Oyun arayüzünden bir kare:</em></p>
-<img src="assets/game" alt="Survivor Bird Screenshot" width="400"/>
-
-<hr>
-
-<h3>🚀 Başlamak için</h3>
-<pre>
-1. Bu repoyu klonla:
-   git clone https://github.com/kullaniciadi/survivor-bird.git
-
-2. Android Studio ile projeyi aç.
-
-3. Emülatör veya fiziksel cihazda çalıştır.
-</pre>
+<img src="assets/game.png" alt="Survivor Bird Screenshot" width="400"/>
 
 <hr>
 
