@@ -1,32 +1,53 @@
-# Survivor Bird
+<h2>🎮 Survivor Bird</h2>
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+<p>Bu proje, Java ve <strong>LibGDX</strong> kullanılarak geliştirilmiş bir mobil oyun uygulamasıdır. Oyunun amacı, bir kuşu kontrol ederek ekrandaki ateş toplarından kaçmaktır.</p>
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+<hr>
 
-## Platforms
+<h3>🧩 Özellikler</h3>
+<ul>
+  <li>🕹️ LibGDX ile geliştirilmiş 2D oyun</li>
+  <li>🔥 Hareketli ateş toplarından kaçma mekaniği</li>
+  <li>📈 Skor sistemi</li>
+  <li>🕊️ Kuşun yerçekimi etkisiyle hareket etmesi</li>
+  <li>💥 Gerçek zamanlı çarpışma kontrolü</li>
+  <li>🔁 Oyun bittiğinde yeniden başlatma seçeneği</li>
+</ul>
 
-- `core`: Main module with the application logic shared by all platforms.
-- `android`: Android mobile platform. Needs Android SDK.
+<hr>
 
-## Gradle
+<h3>🛠️ Kullanılan Teknolojiler</h3>
+<ul>
+  <li><strong>Java</strong> – Ana programlama dili</li>
+  <li><strong>LibGDX</strong> – Oyun motoru (rendering, input, collision, texture management)</li>
+  <li><strong>Android Studio</strong> – Geliştirme ortamı</li>
+</ul>
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+<hr>
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `android:lint`: performs Android project validation.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `test`: runs unit tests (if any).
+<h3>📱 Ekran Görüntüsü</h3>
+<p><em>Oyun arayüzünden bir kare:</em></p>
+<img src="assets/screenshot.png" alt="Survivor Bird Screenshot" width="400"/>
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+<hr>
+
+<h3>🚀 Başlamak için</h3>
+<pre>
+1. Bu repoyu klonla:
+   git clone https://github.com/kullaniciadi/survivor-bird.git
+
+2. Android Studio ile projeyi aç.
+
+3. Emülatör veya fiziksel cihazda çalıştır.
+</pre>
+
+<hr>
+
+<h3>👤 Geliştirici</h3>
+<p><strong>Semih Şahin</strong><br>
+<a href="https://github.com/kullaniciadi" target="_blank">GitHub Profilim</a></p>
+
+<hr>
+
+<h3>📄 Lisans</h3>
+<p>Bu proje açık kaynaklıdır. Detaylar için <code>LICENSE</code> dosyasına göz atın.</p>
